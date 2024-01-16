@@ -1,7 +1,7 @@
 # My-Portfolio
 
-Introduction
-Projects
-Skills
-Education
-Contact Information.
+# Introduction
+# Projects
+# Skills
+# Education
+# Contact Information.
