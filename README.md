@@ -12,6 +12,13 @@
     Include a link to the project repository or live deployment.
     Add screenshots or GIFs to make it visually appealing.
     Include code snippets if relevant.
+
+## Money Social
+
+## AI Puzzle Solver
+
+## Melody Player
+
 # Skills
 
 ## List your technical skills. Categorize them based on languages, frameworks, databases, and tools. Use icons or badges for a visually appealing layout.
