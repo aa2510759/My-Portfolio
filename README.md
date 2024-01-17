@@ -20,7 +20,7 @@
     Developed the app in JavaScript using React-Native with a team of 5.
     Used MongoDB and GraphQL to manage the back-end.
 
-    ![money social home](https://github.com/aa2510759/My-Portfolio/assets/28612170/1813ec83-40ee-423e-bd1e-00c6e5b65da9)
+![money social home](https://github.com/aa2510759/My-Portfolio/assets/28612170/1813ec83-40ee-423e-bd1e-00c6e5b65da9)
 
 [Money Social Repo](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
 
