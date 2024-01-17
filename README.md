@@ -7,17 +7,8 @@
 # Projects
 ## Create a section to showcase your projects. For each project:
 
-
-
-    Provide a project title.
-    Briefly describe the purpose and technologies used.
-    Include a link to the project repository or live deployment.
-    Add screenshots or GIFs to make it visually appealing.
-    Include code snippets if relevant.
-
 ## Money Social
-    Planned and developed a budgeting app for IOS and Android.
-    Developed the app in JavaScript using React-Native with a team of 5.
+    Planned and developed a budgeting app in JavaScript using React-Native with a team of 5.
     Used MongoDB and GraphQL to manage the back-end.
 *Home Screen*
 ![money social home](https://github.com/aa2510759/My-Portfolio/assets/28612170/1813ec83-40ee-423e-bd1e-00c6e5b65da9)
