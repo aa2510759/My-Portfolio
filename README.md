@@ -22,6 +22,46 @@
 ![groups](https://github.com/aa2510759/My-Portfolio/assets/28612170/4bd60415-6191-4ea4-b75d-089d2575c27c)
 <br/>
 
+code snippet from App.js using graphQL to authenticate the user
+`function App() {
+  useEffect(() => {
+    const syncUser = async () => {
+      // get Auth user
+      const authUser = await Auth.currentAuthenticatedUser({
+        bypassCache: true,
+      });
+
+      // query the database using Auth user id (sub)
+      const userData = await API.graphql(
+        graphqlOperation(queries.getUser, { id: authUser.attributes.sub })
+      );
+
+      if (userData.data.getUser) {
+        console.log("User already exists in DB");
+        console.log(userData)
+        return;
+      }
+      // if there is no users in db, create one
+      const newUser = {
+        id: authUser.attributes.sub,
+        name: authUser.attributes.name,
+        imageUri: '',
+        bio: "Hey, I am using MoneySocial"
+      };
+
+      await API.graphql(
+        graphqlOperation(mutations.createUser, { input: newUser })
+      );
+    };
+
+    syncUser();
+  }, []);
+
+  return (
+  <StackNavigator />
+  );
+};`
+
 [Money Social Repo](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
 
 
