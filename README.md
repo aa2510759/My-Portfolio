@@ -23,13 +23,14 @@
 <br/>
 
 code snippet from App.js using graphQL to authenticate the user: 
-        // `function App() {
+    
+    function App() {
         useEffect(() => {
         const syncUser = async () => {
       // get Auth user
       const authUser = await Auth.currentAuthenticatedUser({
         bypassCache: true,
-      });
+    });
 
       // query the database using Auth user id (sub)
       const userData = await API.graphql(
@@ -55,12 +56,12 @@ code snippet from App.js using graphQL to authenticate the user:
     };
 
     syncUser();
-  }, []);
+      }, []);
 
-  return (
-  <StackNavigator />
-  );
-};`
+      return (
+      <StackNavigator />
+      );
+    };
 
 [Money Social Repo](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
 
