@@ -23,9 +23,9 @@
 <br/>
 
 code snippet from App.js using graphQL to authenticate the user: 
-`function App() {
-  useEffect(() => {
-    const syncUser = async () => {
+        `function App() {
+        useEffect(() => {
+        const syncUser = async () => {
       // get Auth user
       const authUser = await Auth.currentAuthenticatedUser({
         bypassCache: true,
