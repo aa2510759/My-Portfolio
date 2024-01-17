@@ -21,8 +21,6 @@
 *Group Screen*
 ![groups](https://github.com/aa2510759/My-Portfolio/assets/28612170/4bd60415-6191-4ea4-b75d-089d2575c27c)
 <br/>
-<br/>
-<br/>
 
 [Money Social Repo](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
 
