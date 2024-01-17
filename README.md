@@ -17,7 +17,7 @@
     Planned and developed a budgeting app for IOS and Android.
     Developed the app in JavaScript using React-Native with a team of 5.
     Used MongoDB and GraphQL to manage the back-end.
-    [Money Social](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
+[Money Social](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
 
 ## AI Puzzle Solver
 
