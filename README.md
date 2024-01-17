@@ -5,7 +5,7 @@
 *Passionate Problem Solver | Transforming Challenges into Solutions.*
 ### Greetings! I am Andres Arevalo Vitela, a recent graduate in Computer Science from the University of California, Riverside. Aspiring to commence my career as a software developer, I am enthusiastic about delving into industry-level code. Possessing a self-driven and passionate approach to problem-solving, I tenaciously address challenges until resolution. Backed by a demonstrated technical acumen, I am confident in my ability to contribute significantly as a valuable asset to any software development team.
 # Projects
-# Create a section to showcase your projects. For each project:
+## Create a section to showcase your projects. For each project:
 
     Provide a project title.
     Briefly describe the purpose and technologies used.
@@ -13,5 +13,9 @@
     Add screenshots or GIFs to make it visually appealing.
     Include code snippets if relevant.
 # Skills
+
+## List your technical skills. Categorize them based on languages, frameworks, databases, and tools. Use icons or badges for a visually appealing layout.
 # Education
+## Mention your educational background. Include your degree, major, university, and graduation date.
 # Contact Information.
+## Provide ways for people to contact you. You can include your email address or link to your LinkedIn profile.
