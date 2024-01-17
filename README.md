@@ -23,7 +23,7 @@
 <br/>
 
 code snippet from App.js using graphQL to authenticate the user: 
-        `function App() {
+        // `function App() {
         useEffect(() => {
         const syncUser = async () => {
       // get Auth user
