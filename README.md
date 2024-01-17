@@ -21,7 +21,11 @@
     Used MongoDB and GraphQL to manage the back-end.
 
 ![money social home](https://github.com/aa2510759/My-Portfolio/assets/28612170/1813ec83-40ee-423e-bd1e-00c6e5b65da9)
-
+*Home Screen*
+![graphics](https://github.com/aa2510759/My-Portfolio/assets/28612170/ad65e272-f17d-4def-a1cd-a60a697e4724)
+*Profile Screen*
+![groups](https://github.com/aa2510759/My-Portfolio/assets/28612170/4bd60415-6191-4ea4-b75d-089d2575c27c)
+*Group Screen*
 [Money Social Repo](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
 
 
