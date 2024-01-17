@@ -22,7 +22,7 @@
 ![groups](https://github.com/aa2510759/My-Portfolio/assets/28612170/4bd60415-6191-4ea4-b75d-089d2575c27c)
 <br/>
 
-code snippet from App.js using graphQL to authenticate the user
+code snippet from App.js using graphQL to authenticate the user: 
 `function App() {
   useEffect(() => {
     const syncUser = async () => {
