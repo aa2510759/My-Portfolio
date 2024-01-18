@@ -70,6 +70,28 @@ code snippet from App.js using graphQL to authenticate the user:
 ## AI Puzzle Solver
         Developed an AI that solved an 8 puzzle. I utilized several efficient graph algorithms including A*search.
         Was written in C++. 
+
+### This is a snippet of the function that implements A* Search
+
+            Node* astarH(deque<Node*>& d)
+            {
+            	int astar = 2147483647;
+            	Node* temp = nullptr;
+            	int popIndex = 0;
+            	for (int i = 0; i < d.size(); i++)
+            	{
+            		int curr = d.at(i)->misplaced + d.at(i)->depth;
+            		if (curr < astar)
+            		{
+            			astar = curr;
+            			temp = d.at(i);
+            			popIndex = i;
+            			//cout << "the new min distance is: " << distance << endl;
+            		}
+            	}
+            	d.erase(d.begin() + popIndex);
+            	return temp;
+            }
     
 
 ## Melody Player
