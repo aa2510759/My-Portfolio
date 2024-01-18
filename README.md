@@ -68,6 +68,9 @@ code snippet from App.js using graphQL to authenticate the user:
 
 
 ## AI Puzzle Solver
+        Developed an AI that solved an 8 puzzle. I utilized several efficient graph algorithms including A*search.
+        Was written in C++. 
+    
 
 ## Melody Player
 
