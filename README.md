@@ -93,6 +93,8 @@ code snippet from App.js using graphQL to authenticate the user:
 
 ## Melody Player
 
+## I created a melody player with an LCD UI that was written in C. I implemented embedded programming principles such as a state machine to handle continuious user input.
+
 # Skills
 
 ## List your technical skills. Categorize them based on languages, frameworks, databases, and tools. Use icons or badges for a visually appealing layout.
