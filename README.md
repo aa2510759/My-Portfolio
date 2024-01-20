@@ -68,8 +68,12 @@ code snippet from App.js using graphQL to authenticate the user:
 
 
 ## AI Puzzle Solver
-        Developed an AI that solved an 8 puzzle. I utilized several efficient graph algorithms including A*search.
+        Developed an AI that solves an 8 puzzle. I utilized several efficient graph algorithms including A*search.
         Was written in C++. 
+### An 8 puzzle is a sliding puzzle where you must slide the pieces of a puzzle in such a way that they are ordered like so
+        1  2  3
+        4  5  6 
+        7  8  0
 
 ### This is a snippet of the function that implements A* Search
 
