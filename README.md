@@ -66,7 +66,6 @@ code snippet from App.js using graphQL to authenticate the user:
 [Money Social Repo](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
 
 
-
 ## AI Puzzle Solver
         Developed an AI that solves an 8 puzzle. I utilized several efficient graph algorithms including A*search.
         Was written in C++. 
@@ -76,6 +75,8 @@ code snippet from App.js using graphQL to authenticate the user:
         4  5  6 
         7  8  0
 
+*inital state with menu options*
+![image](https://github.com/aa2510759/My-Portfolio/assets/28612170/031acd90-7930-4091-b692-6615e3c29820)
 ### This is a snippet of the function that implements A* Search
 
             Node* astarH(deque<Node*>& d){
