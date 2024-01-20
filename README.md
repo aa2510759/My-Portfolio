@@ -61,6 +61,7 @@ code snippet from App.js using graphQL to authenticate the user:
 
 [Money Social Repo](https://github.com/lojason71/cs180-project/tree/main/moneysocial)
 
+<br/>
 
 ## AI Puzzle Solver
         Developed an AI that solves an 8 puzzle. I utilized several efficient graph algorithms including A*search.
