@@ -82,7 +82,7 @@ code snippet from App.js using graphQL to authenticate the user:
 ![ucs ](https://github.com/aa2510759/My-Portfolio/assets/28612170/9ab76cca-33bf-4ca9-ad3f-58ce83787925)
 
 
-*Running with Astar Search with a Euclidian heuristic*
+*Running with Astar Search with a euclidian heuristic*
 ![astar ](https://github.com/aa2510759/My-Portfolio/assets/28612170/a0cfee3f-aa01-49c1-b374-410d3368b3a2)
 
 
