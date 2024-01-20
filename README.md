@@ -76,7 +76,17 @@ code snippet from App.js using graphQL to authenticate the user:
         7  8  0
 
 *inital state with menu options*
-![image](https://github.com/aa2510759/My-Portfolio/assets/28612170/031acd90-7930-4091-b692-6615e3c29820)
+![inital state](https://github.com/aa2510759/My-Portfolio/assets/28612170/d7ca0d44-6f30-4d11-8424-7e4fcb4820da)
+
+*Runnning with Uniform Cost Search*
+![ucs ](https://github.com/aa2510759/My-Portfolio/assets/28612170/9ab76cca-33bf-4ca9-ad3f-58ce83787925)
+
+
+*Running with Astar Search with a Euclidian heuristic*
+![astar ](https://github.com/aa2510759/My-Portfolio/assets/28612170/a0cfee3f-aa01-49c1-b374-410d3368b3a2)
+
+
+
 ### This is a snippet of the function that implements A* Search
 
             Node* astarH(deque<Node*>& d){
