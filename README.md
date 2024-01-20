@@ -105,7 +105,7 @@ code snippet from App.js using graphQL to authenticate the user:
             	d.erase(d.begin() + popIndex);
             	return temp;
             }
-    
+[AI puzzle solver repo](https://github.com/aa2510759/cs170/blob/main/main.cpp)
 
 ## Melody Player
 
