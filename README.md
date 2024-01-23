@@ -149,9 +149,9 @@ code snippet from App.js using graphQL to authenticate the user:
 # Skills
 
 ### Languages
-            C/C++, HTML5, CSS, JavaScript, Python
+            C/C++, JavaScript, HTML5, CSS, Python
 ### Frameworks
-    ![React-icon svg](https://github.com/aa2510759/My-Portfolio/assets/28612170/5e2477a6-4baf-4bf4-9f3d-26cbc71d7af3)
+            React, Node.js, MongoDB
 
 # Education
     University of California,  Riverside 
