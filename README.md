@@ -107,7 +107,9 @@ code snippet from App.js using graphQL to authenticate the user:
 ## Melody Player
 
 ### I developed a melody player with an LCD UI that was written in C. I implemented embedded programming principles such as a state machine to handle continuious user input.
+![video screen shot](https://github.com/aa2510759/My-Portfolio/assets/28612170/5a1811f0-de63-41ec-a70e-eabdbe067025)
 [Melody player demo](https://www.youtube.com/watch?v=A4fi2tVMfPc)
+<br/>
 *snippet of code:*
 
             int TickFct_LCDOutput(int state) {
