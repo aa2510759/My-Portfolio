@@ -106,7 +106,7 @@ code snippet from App.js using graphQL to authenticate the user:
 
 ## Melody Player
 
-### I developed a melody player with an LCD UI that was written in C. I implemented embedded programming principles such as a state machine to handle continuious user input.
+### I developed a melody player with an LCD UI that was written in C. I implemented embedded programming principles such as a state machines to handle continuious user input.
 ![video screen shot](https://github.com/aa2510759/My-Portfolio/assets/28612170/5a1811f0-de63-41ec-a70e-eabdbe067025)
 <br/>
 [Melody player video demo](https://www.youtube.com/watch?v=A4fi2tVMfPc)
@@ -148,8 +148,16 @@ code snippet from App.js using graphQL to authenticate the user:
 <brk/>
 # Skills
 
-## List your technical skills. Categorize them based on languages, frameworks, databases, and tools. Use icons or badges for a visually appealing layout.
+### Languages
+            C/C++, HTML5, CSS, JavaScript, Python
+### Frameworks
+    ![React-icon svg](https://github.com/aa2510759/My-Portfolio/assets/28612170/5e2477a6-4baf-4bf4-9f3d-26cbc71d7af3)
+
 # Education
-## Mention your educational background. Include your degree, major, university, and graduation date.
+University of California,  Riverside         2020-2023 B.S. in Computer Science
+Norco College                                2015-2020 A.S. in Computer Science
+
 # Contact Information.
-## Provide ways for people to contact you. You can include your email address or link to your LinkedIn profile.
+Email: andres.arevalo.vitela@gmail.com   
+Phone: +1(951)220-1876
+Linkedin: https://www.linkedin.com/in/andres-arevalo-vitela-0070a1206/
