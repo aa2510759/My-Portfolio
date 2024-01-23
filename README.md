@@ -166,5 +166,5 @@ code snippet from App.js using graphQL to authenticate the user:
 # Contact Information.
 Email: andres.arevalo.vitela@gmail.com   
 Phone: +1(951)220-1876
-<brk/>
+
 Linkedin: https://www.linkedin.com/in/andres-arevalo-vitela-0070a1206/
