@@ -111,6 +111,7 @@ code snippet from App.js using graphQL to authenticate the user:
 <br/>
 [Melody player video demo](https://www.youtube.com/watch?v=A4fi2tVMfPc)
 <br/>
+<br/>
 *snippet of code:*
 
             int TickFct_LCDOutput(int state) {
