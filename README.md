@@ -154,10 +154,12 @@ code snippet from App.js using graphQL to authenticate the user:
     ![React-icon svg](https://github.com/aa2510759/My-Portfolio/assets/28612170/5e2477a6-4baf-4bf4-9f3d-26cbc71d7af3)
 
 # Education
-## University of California,  Riverside 
+    University of California,  Riverside 
     2020-2023 
     B.S. in Computer Science
-## Norco College                                
+<brk/>
+
+    Norco College                                
     2015-2020    
     A.S. in Computer Science
 
