@@ -155,7 +155,6 @@ code snippet from App.js using graphQL to authenticate the user:
 
 # Education
 ## University of California,  Riverside         2020-2023 B.S. in Computer Science
-<brk/>
 ## Norco College                                2015-2020 A.S. in Computer Science
 
 # Contact Information.
