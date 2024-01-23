@@ -107,7 +107,41 @@ code snippet from App.js using graphQL to authenticate the user:
 ## Melody Player
 
 ### I developed a melody player with an LCD UI that was written in C. I implemented embedded programming principles such as a state machine to handle continuious user input.
+[Melody player demo](https://www.youtube.com/watch?v=A4fi2tVMfPc)
+*snippet of code:*
 
+            int TickFct_LCDOutput(int state) {
+      switch (state) {
+        case 0:
+          state = first_screen;
+          break;
+        case first_screen:
+          LCDWriteLines("Song 1  Song 2", "Song 3  Start");
+          pos1();
+          lcd.blink();
+          state = first_screen_wait;
+          break;
+        case second_screen1:
+          LCDWriteLines("Playing Song 1", "Pause    Play");
+          pos5();
+          lcd.blink();
+          state = second_screen_wait;
+          break;
+        case second_screen2:
+          LCDWriteLines("Playing Song 2", "Pause    Play");
+          pos5();
+          lcd.blink();
+          state = second_screen_wait;
+          break;
+        case second_screen3:
+          LCDWriteLines("Playing Song 3", "Pause    Play");
+          pos5();
+          lcd.blink();
+          state = second_screen_wait;
+          break;
+          case first_screen_wait: //idle
+[Melody player repo](https://github.com/aa2510759/embedded_systems)
+<brk/>
 # Skills
 
 ## List your technical skills. Categorize them based on languages, frameworks, databases, and tools. Use icons or badges for a visually appealing layout.
