@@ -150,8 +150,9 @@ code snippet from App.js using graphQL to authenticate the user:
 
 ### Languages
             C/C++, C#, JavaScript, Python
-### Frameworks
-            React, Node.js, MongoDB
+### Tools/Frameworks
+           Unity, React, Nodejs
+           
 
 # Education
     University of California,  Riverside 
