@@ -149,7 +149,7 @@ code snippet from App.js using graphQL to authenticate the user:
 # Skills
 
 ### Languages
-            C/C++, JavaScript, HTML5, CSS, Python
+            C/C++, C#, JavaScript, Python
 ### Frameworks
             React, Node.js, MongoDB
 
