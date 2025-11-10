@@ -1,7 +1,7 @@
 # My Portfolio
 ## Andres Arevalo Vitela
 *Passionate Problem Solver | Transforming Challenges into Solutions.*
-### Hi! I am a Computer Science graduate from the University of California, Riverside. Aspiring to start my career as a software developer, I am enthusiastic about delving into industry-level code.I am self-driven and have  passion for problem-solving.
+### Hi! I'm a Computer Science graduate from the University of California, Riverside. Aspiring to start my career as a software developer, I am enthusiastic about delving into industry-level code.I am self-driven and have  passion for problem-solving.
 # Projects
 ## Money Social
     Planned and developed a budgeting app in JavaScript using React-Native with a team of 5.
